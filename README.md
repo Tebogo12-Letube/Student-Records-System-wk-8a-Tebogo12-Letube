@@ -8,4 +8,4 @@ This project is a structured relational database designed for managing student r
 3️⃣ Populate tables with sample data using `INSERT` statements.  
 
 ## 📊 Entity Relationship Diagram  
-![ERD Screenshot](link_to_your_erd.png)  
+![ERD Screenshot](https://github.com/Tebogo12-Letube/Student-Records-System-wk-8a-Tebogo12-Letube/blob/main/ERD.png)  
